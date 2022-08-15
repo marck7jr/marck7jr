@@ -11,7 +11,7 @@ Well, I don't know why and how, but I'm proud to see you here. So, let me introd
 
 ## 🧾 Public information
 
-Hi! My name is Lucimarck Dias and I'm a brazilian developer passionate to learn. I currently live in Mato Grosso, Brazil and my actual work is to develop customizations and solutions to attend demands for LIMS-based systems.
+Hi! My name is Lucimarck Dias and I'm a brazilian developer passionate to learn. I currently live in Mato Grosso, Brazil.
 
 In my free time, I like to learn new technologies and technics to improve my development skills, especially trying to create new apps for Windows using [.NET](https://dotnet.microsoft.com/en-us/).
 
